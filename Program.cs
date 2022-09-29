@@ -1,31 +1,14 @@
 ﻿namespace MultiplePolymorph;
+
 class Program
 {
     static void Main(string[] args)
     {
-        int Number = 1;
+        int[] Range = {1 , 100};
         
-        for (int i = 0; i <= 100; i++)
-        {
-            if(Number %2 == 0)
-            {
-                Console.WriteLine($"{Number} is a multiple of 2");
-            }
-            if(Number %3 == 0)
-            {
-                Console.WriteLine($"{Number} is a multiple of 3");
-            }
-            if(Number %5 == 0)
-            {
-                Console.WriteLine($"{Number} is a multiple of 5");
-            }
-            if(Number %7 == 0)
-            {
-                Console.WriteLine($"{Number} is a multiple of 7");
-            }
+        SimpleMultiple MS = new SimpleMultiple();
 
-           Number++;
-        }
+        MS.FindMultiple(Range[0], Range[1]);
 
         Console.WriteLine("End of execution.");
     }

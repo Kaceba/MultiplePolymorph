@@ -1,0 +1,15 @@
+/Users/rvninno/Desktop/Multiple/MultiplePolymorph/bin/Debug/net6.0/MultiplePolymorph
+/Users/rvninno/Desktop/Multiple/MultiplePolymorph/bin/Debug/net6.0/MultiplePolymorph.deps.json
+/Users/rvninno/Desktop/Multiple/MultiplePolymorph/bin/Debug/net6.0/MultiplePolymorph.runtimeconfig.json
+/Users/rvninno/Desktop/Multiple/MultiplePolymorph/bin/Debug/net6.0/MultiplePolymorph.dll
+/Users/rvninno/Desktop/Multiple/MultiplePolymorph/bin/Debug/net6.0/MultiplePolymorph.pdb
+/Users/rvninno/Desktop/Multiple/MultiplePolymorph/obj/Debug/net6.0/MultiplePolymorph.csproj.AssemblyReference.cache
+/Users/rvninno/Desktop/Multiple/MultiplePolymorph/obj/Debug/net6.0/MultiplePolymorph.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rvninno/Desktop/Multiple/MultiplePolymorph/obj/Debug/net6.0/MultiplePolymorph.AssemblyInfoInputs.cache
+/Users/rvninno/Desktop/Multiple/MultiplePolymorph/obj/Debug/net6.0/MultiplePolymorph.AssemblyInfo.cs
+/Users/rvninno/Desktop/Multiple/MultiplePolymorph/obj/Debug/net6.0/MultiplePolymorph.csproj.CoreCompileInputs.cache
+/Users/rvninno/Desktop/Multiple/MultiplePolymorph/obj/Debug/net6.0/MultiplePolymorph.dll
+/Users/rvninno/Desktop/Multiple/MultiplePolymorph/obj/Debug/net6.0/refint/MultiplePolymorph.dll
+/Users/rvninno/Desktop/Multiple/MultiplePolymorph/obj/Debug/net6.0/MultiplePolymorph.pdb
+/Users/rvninno/Desktop/Multiple/MultiplePolymorph/obj/Debug/net6.0/MultiplePolymorph.genruntimeconfig.cache
+/Users/rvninno/Desktop/Multiple/MultiplePolymorph/obj/Debug/net6.0/ref/MultiplePolymorph.dll
