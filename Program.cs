@@ -6,10 +6,11 @@ class Program
     {
         int[] Range = {1 , 100};
         
-        SimpleMultiple MS = new SimpleMultiple();
+        var Multiple = new LinQMultiple(); //Basta cambiare il nome della classe dichiarata e si puo
+                                           //Usufruire di tutti e 3 i servizi  
 
-        MS.FindMultiple(Range[0], Range[1]);
+        int exit = Multiple.FindMultiple(Range[0], Range[1]);
 
-        Console.WriteLine("End of execution.");
+        Console.WriteLine($"Process exited with return value {exit}");
     }
 }

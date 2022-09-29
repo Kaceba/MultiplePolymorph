@@ -1,18 +1,27 @@
 namespace MultiplePolymorph;
 
-public class SimpleMultiple : IMultiple
+using System.Collections.Generic;
+
+public class ListMultiple : IMultiple
 {
     public int FindMultiple(int Start, int End)
     {
-        int Number = Start;
+        List<int> Values = new List<int>();
+        int i = 0;
 
-        if(Start >= End)
+        if (Start >= End)
         {
             Console.WriteLine("Incorrect values for range");
             return 1;
         }
 
-        for (int i = 0; i <= End; i++)
+        for (int Number = Start; Number <= End; Number++)
+        {
+            Values.Add(Number);
+            i++;
+        }
+
+        foreach (var Number in Values)
         {
             if(Number %2 == 0)
             {
@@ -30,8 +39,6 @@ public class SimpleMultiple : IMultiple
             {
                 Console.WriteLine($"{Number} is a multiple of 7");
             }
-
-           Number++;
         }
 
         return 0;

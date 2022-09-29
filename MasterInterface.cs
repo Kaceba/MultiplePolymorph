@@ -2,7 +2,7 @@ namespace MultiplePolymorph;
 
 public interface IMultiple
 {
-    public void FindMultiple(int Start, int End){
-              
+    public int FindMultiple(int Start, int End){
+        return 0;
     }
 }
