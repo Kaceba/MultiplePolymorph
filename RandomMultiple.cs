@@ -1,7 +1,7 @@
 namespace MultiplePolymorph;
 
 using System.Linq;
-public class RandomMultiple
+public class RandomMultiple : IMultiple
 {
     public int FindMultiple(int Start, int End)
     {
