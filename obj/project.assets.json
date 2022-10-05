@@ -8,19 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/rvninno/.nuget/packages/": {}
+    "/Users/kaceba/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rvninno/Desktop/Multiple/MultiplePolymorph/MultiplePolymorph.csproj",
+      "projectUniqueName": "/Users/kaceba/Desktop/MultiplePolymorph/MultiplePolymorph.csproj",
       "projectName": "MultiplePolymorph",
-      "projectPath": "/Users/rvninno/Desktop/Multiple/MultiplePolymorph/MultiplePolymorph.csproj",
-      "packagesPath": "/Users/rvninno/.nuget/packages/",
-      "outputPath": "/Users/rvninno/Desktop/Multiple/MultiplePolymorph/obj/",
+      "projectPath": "/Users/kaceba/Desktop/MultiplePolymorph/MultiplePolymorph.csproj",
+      "packagesPath": "/Users/kaceba/.nuget/packages/",
+      "outputPath": "/Users/kaceba/Desktop/MultiplePolymorph/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/rvninno/.nuget/NuGet/NuGet.Config"
+        "/Users/kaceba/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
