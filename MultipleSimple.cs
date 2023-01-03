@@ -8,7 +8,7 @@ public class SimpleMultiple : IMultiple
 
         if(Start >= End)
         {
-            Console.WriteLine("Incorrect values for range");
+            Console.WriteLine("Incorret values for range");
             return 1;
         }
 
