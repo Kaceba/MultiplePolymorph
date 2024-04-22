@@ -9,6 +9,7 @@ class Program
         //Basta cambiare il nome della classe dichiarata e si puo
         //Usufruire di tutti e 3 i servizi
 	
+
         var Multiple = new SimpleMultiple();
 
         int exit = Multiple.FindMultiple(Range[0], Range[1]);
